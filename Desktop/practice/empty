@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "enter the fiename"
+
+read filename
+
+touch $filename 
+
+if [ -s $filename ]
+then 
+echo "this file is empty"
+else 
+echo "file is nonempty"
+fi 

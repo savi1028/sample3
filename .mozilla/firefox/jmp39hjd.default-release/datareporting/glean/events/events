@@ -1,0 +1,3 @@
+{"timestamp":842303,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1722708463836"}}
+{"timestamp":844185,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1722708465716"}}
+{"timestamp":872825,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1722708494356"}}

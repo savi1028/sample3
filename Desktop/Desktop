@@ -1,0 +1,11 @@
+#!/bin/bash
+#author-savitha
+#date 19/07/2024
+#desc-run command 
+
+echo "enter the command name"
+read command name
+
+echo "the command you entered is $commandname"
+man $commandname
+man ls ltr
